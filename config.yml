@@ -1,0 +1,33 @@
+title: "Karl Belanger Portfolio"
+description: "Linux Administration Projects, Accessibility Insights, and Homelab Engineering"
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Minimal Mistakes settings
+plugins:
+  - jekyll-include-cache
+
+# Navigation
+include:
+  - index.md
+  - projects.md
+  - my-linux-accessibility-journey.md
+
+# Author info
+author:
+  name: "Karl Belanger"
+  linkedin: "https://www.linkedin.com/in/karl-belanger-09761b21/"
+
+# Defaults for all Markdown pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      toc: true
+      toc_label: "On this page"
+      toc_icon: "list"
