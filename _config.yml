@@ -1,14 +1,14 @@
 title: "Karl Belanger Portfolio"
 description: "Linux Administration Projects, Accessibility Insights, and Homelab Engineering"
 remote_theme: pages-themes/cayman@v0.2.0
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
 
-# Minimal Mistakes settings
+# Plugins
 plugins:
-  - jekyll-include-cache
-- jekyll-remote-theme
+  - jekyll-remote-theme
 
 # Navigation
 include:
@@ -28,6 +28,3 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-      toc: true
-      toc_label: "On this page"
-      toc_icon: "list"
