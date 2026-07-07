@@ -1,7 +1,6 @@
 ---
 title: "Portfolio Home"
-layout: single
-toc: false
+layout: default
 ---
 
 

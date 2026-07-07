@@ -1,8 +1,6 @@
 ---
 title: "My Linux Accessibility Journey"
-layout: single
-toc: true
-toc_label: "Topics"
+layout: default
 ---
 
 
