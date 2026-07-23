@@ -12,6 +12,7 @@ Here is where I will be posting my Linux administration projects. This site is i
 First off, here are some of my thoughts on my experiences with Linux accessibility. [](my-linux-accessibility-journey.md)
 ## Projects
 ![Intel NUC from my home lab](<Linux Computer-1.jpeg>)
+
 Over my time learning Linux, I have worked on several projects:
 - Setting up an SSH home bastion so I can access my home lab from anywhere
 - - Set up Ansible and Terraform for efficient deployment and configuration
